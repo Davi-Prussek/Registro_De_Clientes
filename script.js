@@ -1,9 +1,3 @@
-
-        /*
-        PROBLEMA: DADOS DO CLIENTE
-        Crie um objeto chamado cliente com as propriedades nome, idade, email, e crie um método que retorne o nome, idade e email do cliente em formato string.
-        */
-
         //ENTRADA
 
         //INTERAÇÃO COM HTML
