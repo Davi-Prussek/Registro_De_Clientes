@@ -167,6 +167,7 @@
                 }
 
                 const respostaFinal = registro.find(cliente => cliente.nome === letraMaiuscula(resposta));
+                
                 alert(respostaFinal.informações());
 
                 saida = prompt("Deseja ver as informaçõs de outro usuário?\n\n(Responda com S-Sim ou N-Não)").trim().toLowerCase().charAt();
